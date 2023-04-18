@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">A dedicated software engineer from Brasil</h3>
 
-- 🔭 I’m currently working at [Mercado Pago](https://www.mercadopago.com.br/)
+- 🔭 I’m currently working at [GoCo](https://www.goco.io/)
 
 - 🌱 I’m currently learning more about **System Design**
 
-- 💬 Ask me about **Java, Go, Clean Code**
+- 💬 Ask me about **Ruby, Java, Go, Clean Code**
 
 - 📫 How to reach me **rodlmoraes@hotmail.com**
 
